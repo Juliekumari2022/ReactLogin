@@ -12,7 +12,7 @@ export const LoginSignup = () => {
     const LoginSignupTest=()=>{
         console.log("username:-",username);
         console.log("Password:-",pass);
-        console.log("Email:-",email);
+        console.log("Email: -",email);
     }
   return (
     <div className='container'>
